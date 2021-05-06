@@ -1,4 +1,4 @@
-package lacodecisao;
+package lacoDecisao;
 
 import java.util.Scanner;
 
