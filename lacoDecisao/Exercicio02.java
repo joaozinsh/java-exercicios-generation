@@ -5,8 +5,12 @@ import java.util.Scanner;
 public class Exercicio02 {
 
 	/* 
+	 * Autor: João Gabriel
 	 * Data: 05/05/2021
+	 * 
 	 * 2- Faça um programa que entre com três números e coloque em ordem crescente.
+	 * 
+	 * Foco do exercicio: Laço de Decisão IF
 	 */
 	
 	public static void main(String[] args) {

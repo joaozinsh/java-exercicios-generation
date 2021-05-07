@@ -5,8 +5,12 @@ import java.util.Scanner;
 public class Exercicio01 {
 	
 	/* 
+	 * Autor: João Gabriel
 	 * Data: 05/05/2021
+	 * 
 	 * 1- Faça um programa que receba três inteiros e diga qual deles é o maior.
+	 * 
+	 * Foco do exercicio: Laço de Decisão IF
 	 */
 
 	public static void main(String[] args) {		

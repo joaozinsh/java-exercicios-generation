@@ -5,10 +5,14 @@ import java.util.Scanner;
 public class Exercicio03 {
 
 	/*
+	 * Autor: João Gabriel
 	 * Data: 06/05/2021
+	 * 
 	 * 3- Solicitar a idade de várias pessoas e imprimir: Total de pessoas com menos de
 	 * 21 anos. Total de pessoas com mais de 50 anos. O programa termina quando
-	 * idade for =-99. (WHILE)
+	 * idade for =-99.
+	 * 
+	 * Foco do exercicio: Laço de Repetição WHILE
 	 */
 	
 	public static void main(String[] args) {

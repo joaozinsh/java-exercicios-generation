@@ -3,9 +3,13 @@ package lacoRepeticao;
 public class Exercicio01 {
 
 	/*
+	 * Autor: João Gabriel
 	 * Data: 06/05/2021
+	 * 
 	 * 1- Informar todos os números de 1000 a 1999 que quando divididos por 11 obtemos
-	 * resto = 5. (FOR)
+	 * resto = 5.
+	 * 
+	 * Foco do exercicio: Laço de Repetição FOR
 	 */
 	
 	public static void main(String[] args) {
