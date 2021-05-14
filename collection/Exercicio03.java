@@ -33,8 +33,11 @@ public class Exercicio03 {
 			
 			String produto, produtoAtt;
 			boolean repetir = true;
+<<<<<<< HEAD
 			int opRepetir;
 			
+=======
+>>>>>>> 927dc803615e0d693bae094e47d7ae7d5c845407
 			switch(op) {
 			case 1:
 				do {
@@ -70,10 +73,17 @@ public class Exercicio03 {
 							+ "\n1- Sim"
 							+ "\n2- Não"
 							+ "\nQual sua opção? ");
+<<<<<<< HEAD
 					opRepetir = sc.nextInt();
 					sc.nextLine();
 					
 					if(opRepetir == 1) {
+=======
+					int rm = sc.nextInt();
+					sc.nextLine();
+					
+					if(rm == 1) {
+>>>>>>> 927dc803615e0d693bae094e47d7ae7d5c845407
 						repetir = true;
 					} else {
 						repetir = false;
@@ -105,10 +115,17 @@ public class Exercicio03 {
 							+ "\n1- Sim"
 							+ "\n2- Não"
 							+ "\nQual sua opção? ");
+<<<<<<< HEAD
 					opRepetir = sc.nextInt();
 					sc.nextLine();
 					
 					if(opRepetir == 1) {
+=======
+					int rm = sc.nextInt();
+					sc.nextLine();
+					
+					if(rm == 1) {
+>>>>>>> 927dc803615e0d693bae094e47d7ae7d5c845407
 						repetir = true;
 					} else {
 						repetir = false;
